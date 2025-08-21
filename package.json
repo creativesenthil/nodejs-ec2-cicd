@@ -1,7 +1,7 @@
 {
   "name": "nodejs-ec2-cicd",
   "version": "1.0.0",
-  "description": "Sample Node.js app for AWS CI/CD pipeline with GitHub",
+  "description": "Sample Node.js app for AWS CI/CD pipeline with GitHub on Ubuntu EC2",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
